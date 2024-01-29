@@ -3,7 +3,8 @@
 ###
 
 <p align="left">Ben  Ümit (Rita) ve Front-end geliştiriciyim.</p>
-![WhatsApp Image 2024-01-29 at 09 54 59](https://github.com/Umitt96/umitt96/assets/55894059/7829c7e3-352b-4fa3-b303-60e7f415f4f7)
+<img src="https://github.com/Umitt96/umitt96/assets/55894059/e7625641-e059-4779-8a48-a0d4c3781b4a"/>
+
 
 ###
 
@@ -37,8 +38,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
