@@ -10,8 +10,9 @@
 <p align="center">✨ Bug fixes have been made since 2019<br>📚Learning React now...<br>🎯 Available: Being a React and Node.js pro <br></p>
 
 ###
-
-<img align="center" src="https://github.com/Umitt96/umitt96/assets/55894059/e7625641-e059-4779-8a48-a0d4c3781b4a" width="60%"/>
+<p align="center">
+  <img  src="https://github.com/Umitt96/umitt96/assets/55894059/e7625641-e059-4779-8a48-a0d4c3781b4a" width="60%"/>
+</p>
 
 ###
 
