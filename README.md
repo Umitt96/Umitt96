@@ -3,16 +3,21 @@
 ###
 
 <p align="left">My name is Ümit (Rita) and I am Front-end developer</p>
-<img src="https://github.com/Umitt96/umitt96/assets/55894059/e7625641-e059-4779-8a48-a0d4c3781b4a" width="80%" heigth="450px"/>
 
 
 ###
+
 
 <h2 align="left">About me</h2>
 
-###
 
 <p align="left">✨ Bug fixes have been made since 2019<br>📚Learning React now...<br>🎯 Available: Being a React and Node.js pro <br></p>
+
+###
+
+
+<img src="https://github.com/Umitt96/umitt96/assets/55894059/e7625641-e059-4779-8a48-a0d4c3781b4a" width="80%" heigth="450px"/>
+
 
 ###
 
