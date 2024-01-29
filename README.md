@@ -8,14 +8,8 @@
 ###
 
 
-<h2 align="left">About me</h2>
 
-
-<p align="left">✨ Bug fixes have been made since 2019<br>📚Learning React now...<br>🎯 Available: Being a React and Node.js pro <br></p>
-
-###
-
-<img align="center" src="https://github.com/Umitt96/umitt96/assets/55894059/e7625641-e059-4779-8a48-a0d4c3781b4a" width="60%" heigth="300px"/>
+<img align="center" src="https://github.com/Umitt96/umitt96/assets/55894059/e7625641-e059-4779-8a48-a0d4c3781b4a" width="60%"/>
 
 
 ###
@@ -24,6 +18,13 @@
 <div align="center">
   
 ###
+
+<h2 align="center">About me</h2>
+
+<p align="center">✨ Bug fixes have been made since 2019<br>📚Learning React now...<br>🎯 Available: Being a React and Node.js pro <br></p>
+
+###
+
 
 <h2 align="center">Ide and systems</h2>
 
