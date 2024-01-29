@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Ben  Ümit (Rita) ve Front-end geliştiriciyim.</p>
-<img src="https://github.com/Umitt96/umitt96/assets/55894059/e7625641-e059-4779-8a48-a0d4c3781b4a"/>
+<img src="https://github.com/Umitt96/umitt96/assets/55894059/e7625641-e059-4779-8a48-a0d4c3781b4a" width="80%" heigth="450px"/>
 
 
 ###
