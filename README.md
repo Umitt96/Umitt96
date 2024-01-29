@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ 2019'dan beri bugfix yapıyor<br>📚Şuan React öğreniyor ...<br>🎯 Amaçlar: ;) <br></p>
+<p align="left">✨ 2019'dan beri bugfix yapıyor<br>📚Şuan React öğreniyor...<br>🎯 Mevcut amaçlar: React ve Node.js prosu olmak <br></p>
 
 ###
 
