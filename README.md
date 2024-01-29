@@ -52,7 +52,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" height="30" alt="unity logo"  />
 
-<h2 align="center">Graphics design</h2>
+<h2 align="center">Graphic design</h2>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
   <img width="12" />
