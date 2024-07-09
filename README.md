@@ -7,7 +7,7 @@
 
 ###
 
-<p align="center">✨ Bug fixes have been made since 2019<br>📚Learning React now...<br>🎯 Available: Being a React and Node.js pro <br></p>
+<p align="center">✨ Bug fixes have been made since 2019<br>📚Learning Tensorflow now...<br>🎯 Available: Being a ML and AI "pro" <br></p>
 
 ###
 <p align="center">
